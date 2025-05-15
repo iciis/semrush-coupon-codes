@@ -33,23 +33,23 @@ Semrush is one of the most powerful digital marketing tools used by professional
 
 Below are the standout features that make it a top choice.
 
-1. **SEO Toolkit**
+**1. SEO Toolkit**
 
 Semrush offers an all-in-one SEO toolkit that includes keyword research, site audits, backlink analysis, and rank tracking. It helps users boost their organic search performance and stay ahead of competitors in search engine rankings.
 
-2. **Market Explorer**
+**2. Market Explorer**
 
 With Semrush’s Market Explorer, users can analyze any industry or niche. It provides insights into market trends, audience demographics, and traffic sources—making it easier to understand what’s working in your target market.
-    
-3. **Competitive Research**
+
+**3. Competitive Research**
     
 Semrush allows you to uncover competitor strategies by analyzing their traffic, paid ads, keywords, and backlinks. It helps you find content gaps and growth opportunities by comparing your site with your rivals.
     
-4. **Keyword Magic Tool**
+**4. Keyword Magic Tool**
     
 This tool gives you access to millions of keyword suggestions, sorted by relevance, search volume, difficulty, and intent. It's ideal for building a strong SEO strategy and content plan.
     
-5. **Content Marketing Platform**
+**5. Content Marketing Platform**
 
 Semrush helps in planning, writing, optimizing, and measuring content performance. Its tools support SEO writing, topic research, and even content auditing to improve your publishing strategy.
 
