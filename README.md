@@ -28,7 +28,7 @@ The platform offers a powerful and well-rounded suite of tools that go beyond ju
 Whether you're a freelancer, agency, or business owner, Semrush provides everything you need to grow your online presence, make data-driven decisions, and stay ahead in the digital race.
 
 <a href="https://afftrend.com/semrush-coupon-codes"> 
-<img src="https://drive.google.com/uc?export=view&id=1l5pL-NmRd4ipfP11-OQX4lmD0iqkEa_z" alt="Learn More"> 
+<img src="https://drive.google.com/uc?export=view&id=1l5pL-NmRd4ipfP11-OQX4lmD0iqkEa_z" alt="Take a Closure Look"> 
 </a>
 
 ## Features of Semrush
@@ -59,7 +59,11 @@ Semrush helps in planning, writing, optimizing, and measuring content performanc
 
 Whether you're a solo blogger or a large marketing team, Semrush empowers your digital strategy with data-driven insights. 
 
-Its blend of SEO power and in-depth market research tools makes it a go-to platform for growing traffic, reaching the right audience, and staying competitive in any industry.?
+Its blend of SEO power and in-depth market research tools makes it a go-to platform for growing traffic, reaching the right audience, and staying competitive in any industry.
+
+<a href="https://afftrend.com/semrush-coupon-codes"> 
+<img src="https://drive.google.com/uc?export=view&id=16GPccgw1mUkqXJFEgnBxrvcdlH8lrHot" alt="Check Detailed Features"> 
+</a>
 
 ## **Top Semrush SEO Discount & Coupons**
 
