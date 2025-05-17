@@ -43,6 +43,10 @@ Below are the standout features that make it a top choice.
 
 **1. SEO Toolkit**
 
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1iQsKFmbERQNJOq0N_aRKMBicvekWRtpO"  alt="SEMrush SEO Toolkit">
+</a>
+
 Semrush offers an all-in-one SEO toolkit that includes keyword research, site audits, backlink analysis, and rank tracking. It helps users boost their organic search performance and stay ahead of competitors in search engine rankings.
 
 **2. Market Explorer**
@@ -50,14 +54,26 @@ Semrush offers an all-in-one SEO toolkit that includes keyword research, site au
 With Semrush’s Market Explorer, users can analyze any industry or niche. It provides insights into market trends, audience demographics, and traffic sources—making it easier to understand what’s working in your target market.
 
 **3. Competitive Research**
+
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1iQsKFmbERQNJOq0N_aRKMBicvekWRtpO"  alt="SEMrush Competitive Research">
+</a>
     
 Semrush allows you to uncover competitor strategies by analyzing their traffic, paid ads, keywords, and backlinks. It helps you find content gaps and growth opportunities by comparing your site with your rivals.
     
 **4. Keyword Magic Tool**
+
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=16BxvzLkP8ZMrwNSNRzum1aeu8wlD3pgr"  alt="SEMrush Keyword Magic Tool">
+</a>
     
 This tool gives you access to millions of keyword suggestions, sorted by relevance, search volume, difficulty, and intent. It's ideal for building a strong SEO strategy and content plan.
     
 **5. Content Marketing Platform**
+
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1MPAbKdZukn230RPmYXrOi0wi2gxy2Nxg"  alt="Semrush Content Marketing">
+</a>
 
 Semrush helps in planning, writing, optimizing, and measuring content performance. Its tools support SEO writing, topic research, and even content auditing to improve your publishing strategy.
 
