@@ -71,10 +71,6 @@ This tool gives you access to millions of keyword suggestions, sorted by relevan
     
 **5. Content Marketing Platform**
 
-<a href="https://afftrend.com/semrush">
-  <img src="https://drive.google.com/uc?export=view&id=1MPAbKdZukn230RPmYXrOi0wi2gxy2Nxg"  alt="Semrush Content Marketing">
-</a>
-
 Semrush helps in planning, writing, optimizing, and measuring content performance. Its tools support SEO writing, topic research, and even content auditing to improve your publishing strategy.
 
 Whether you're a solo blogger or a large marketing team, Semrush empowers your digital strategy with data-driven insights. 
