@@ -56,7 +56,7 @@ With Semrush’s Market Explorer, users can analyze any industry or niche. It pr
 **3. Competitive Research**
 
 <a href="https://afftrend.com/semrush">
-  <img src="https://drive.google.com/uc?export=view&id=1iQsKFmbERQNJOq0N_aRKMBicvekWRtpO"  alt="SEMrush Competitive Research">
+  <img src="https://drive.google.com/uc?export=view&id=1OjNzciHG4ZiOEpTARHuoLkvg_OWHIdYA"  alt="SEMrush Competitive Research">
 </a>
     
 Semrush allows you to uncover competitor strategies by analyzing their traffic, paid ads, keywords, and backlinks. It helps you find content gaps and growth opportunities by comparing your site with your rivals.
