@@ -10,6 +10,10 @@ Whether you’re running a small business, freelancing, or working with a market
 
 ## Semrush Overview
 
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1RHo9f5IpqZc_zQmIgl77edjuMxCU23hN"  alt="Semrush Homepage">
+</a>
+
 | **Feature** | **Description** | **Best For** |
 | --- | --- | --- |
 | SEO Toolkit | Includes keyword research, site audits, backlink tracking, and rank monitoring. | SEO experts, bloggers, website owners |
