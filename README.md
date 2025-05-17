@@ -135,9 +135,9 @@ affiliates.
 Go to semrush.com and click on the **“Pricing”** section to view the different plans available (Pro, Guru, or Business).
 
 <a href="https://afftrend.com/semrush">
-  <img src="https://drive.google.com/uc?export=view&id=d/1LiNRIdDcjZOP0omicHZyGjoUQcgWM1mL"  alt="SEMrush Pricing">
+  <img src="https://drive.google.com/uc?export=view&id=1LiNRIdDcjZOP0omicHZyGjoUQcgWM1mL"  alt="SEMrush Pricing">
 </a>
-    
+
 **3. Choose Your Plan**
     
 Select the plan that fits your needs. You can also opt for monthly or annual billing depending on your budget.
