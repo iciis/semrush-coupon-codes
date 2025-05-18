@@ -1,4 +1,4 @@
-# Maximize Your SEO Budget: Semrush Coupon Codes You Can’t Misssemrush-coupon-codes
+# Semrush Coupon Codes, Discounts Deals & Offer in 2025
 
 **Looking to supercharge your website’s SEO without draining your budget?** If so, you're in the right place! **Semrush** is widely regarded as one of the most comprehensive SEO tools on the market, trusted by marketers, businesses, and SEO professionals alike. 
 
