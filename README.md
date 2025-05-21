@@ -35,7 +35,7 @@ Whether you're a freelancer, agency, or business owner, Semrush provides everyth
 <img src="https://drive.google.com/uc?export=view&id=1l5pL-NmRd4ipfP11-OQX4lmD0iqkEa_z" alt="Learn More"> 
 </a>
 
-## Features of Semrush
+## SEMrush Features
 
 Semrush is one of the most powerful digital marketing tools used by professionals, entrepreneurs, and agencies worldwide. Whether you're trying to improve your website's SEO, analyze your competitors, or explore new market opportunities, Semrush offers a complete suite of tools to help you succeed. 
 
